@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/computer-2048983.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/back_image.jpg");
   background-position: 50% 50%;
   min-height: 1803px;
 }
@@ -35,7 +35,7 @@
 .u-section-1 .u-image-1 {
   width: 239px;
   height: 239px;
-  background-image: url("images/1211_oooo.plus.png");
+  background-image: url("images/foto_image.png");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,1);
   margin: 0 auto;
@@ -43,7 +43,7 @@
 
 .u-section-1 .u-image-2 {
   min-height: 504px;
-  background-image: url("images/1616439440_5-p-belii-fon-chistii-dlya-fotoshopa-6.jpg");
+  background-image: url("images/white_background.jpg");
   background-position: 50% 50%;
 }
 
